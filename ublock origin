@@ -1,0 +1,23 @@
+dtf.ru##.reactions > div > .reaction-button
+dtf.ru##div.reaction-button:nth-of-type(14)
+dtf.ru##div.reaction-button:nth-of-type(13)
+dtf.ru##div.reaction-button:nth-of-type(12)
+dtf.ru##div.reaction-button:nth-of-type(11)
+dtf.ru##div.reaction-button:nth-of-type(10)
+dtf.ru##div.reaction-button:nth-of-type(9)
+dtf.ru##div.reaction-button:nth-of-type(8)
+dtf.ru##div.reaction-button:nth-of-type(7)
+dtf.ru##div.reaction-button:nth-of-type(6)
+dtf.ru##div.reaction-button:nth-of-type(5)
+dtf.ru##div.reaction-button:nth-of-type(4)
+dtf.ru##div.reaction-button:nth-of-type(3)
+dtf.ru##div.reaction-button:nth-of-type(2)
+
+! 6 июн. 2024 г. https://dtf.ru
+
+! 7 июн. 2024 г. https://dtf.ru
+dtf.ru##[src^="data:image/png;base64,"]
+dtf.ru##div.reaction-button:nth-of-type(15)
+dtf.ru##div.reaction-button:nth-of-type(16)
+dtf.ru##.distribution__text
+||leonardo.osnova.io/8017a4fa-6739-5f50-995e-a025d3694e1c/-/preview/72x72/$image
